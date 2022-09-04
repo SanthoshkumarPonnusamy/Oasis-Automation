@@ -1,0 +1,5 @@
+2022-09-04 20:27:37,131 - com.oasis.ui.pages.HomePage2 -INFO - **************  Opening HRM Home Page  ************
+2022-09-04 20:27:37,386 - com.oasis.ui.stepdefinitions.LoginToApplication -INFO - **************  user_is_on_home_page  ************
+2022-09-04 20:27:38,307 - com.oasis.ui.pages.HomePage2 -INFO - **************  Entering HRM Username  ************
+2022-09-04 20:27:38,894 - com.oasis.ui.pages.HomePage2 -INFO - **************  Entering HRM Password  ************
+2022-09-04 20:27:39,197 - com.oasis.ui.pages.HomePage2 -INFO - **************  Clicking on Login Button  ************

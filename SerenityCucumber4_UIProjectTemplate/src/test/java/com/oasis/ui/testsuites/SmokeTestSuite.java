@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         tags = "@Smoke",
         plugin = {"pretty"},
-        features = "src/test/resources/features",
+        features = "src/test/resources/Features/com.oasis.ui.features.hrm",
         glue = "com.oasis.ui.stepdefinitions")
 public class SmokeTestSuite {
 
